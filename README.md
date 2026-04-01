@@ -15,8 +15,8 @@
 ### about me
 
 - 🎓 studying Computer Systems at UL
-- 💻 into building things for the web and beyond
-- 🌱 always learning, always shipping
+- 💻 strong interest in problem solving 
+- 🌱 always learning something new
 
 ---
 
