@@ -5,8 +5,8 @@
 **second year computer systems student @ University of Limerick**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-hartnett-ferreira-7a4a3737b/)
-[![Email](https://img.shields.io/badge/Email-business.fabianhf%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:business.fabianhf@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-angellane-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/angellane)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:business.fabianhf@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/angellane)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 - 🎓 studying Computer Systems at UL
 - 💻 strong interest in problem solving 
-- 🌱 always learning something new
+- 🌱 always learning something new 
 
 ---
 
