@@ -14,9 +14,9 @@
 
 ### about me
 
-- 🎓 studying Computer Systems at UL.
-- 💻 strong interest in problem solving.
-- 🌱 always learning something new.
+- 🎓 studying Computer Systems at UL
+- 💻 strong interest in problem solving
+- 🌱 always learning something new
 
 ---
 
