@@ -57,5 +57,5 @@
 ---
 
 <div align="center">
-  <sub>open to collabs, projects & opportunities — feel free to reach out</sub>
+  <sub>open to collabs, projects & all opportunities — feel free to reach out :)</sub>
 </div>
