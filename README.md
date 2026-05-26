@@ -2,7 +2,9 @@
 
 # hi, i'm fabian 👋
 
-**second year computer systems student @ University of Limerick**
+**second year computer systems student @ University of Limerick, currently building Fairheart**
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-hartnett-ferreira-7a4a3737b/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:business.fabianhf@gmail.com)
