@@ -2,7 +2,9 @@
 
 # hi, i'm fabian 👋
 
-**second year computer systems student @ University of Limerick, currently building Fairheart**
+**Second year Computer Systems student @ University of Limerick <br>
+Intern @ Limerick City and County Council </br>
+Currently Building Fairheart**
 
 
 
