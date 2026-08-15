@@ -16,11 +16,13 @@ Currently Building Fairheart**
 
 ---
 
-### about me
+### currently
 
-- 🎓 studying Computer Systems at UL
-- 💻 strong interest in problem solving
-- 🌱 always learning something new
+- Doing Co-Op @ Limerick City & County Council
+- Improving my understanding of DSA & System Design
+- Learning how to leverage ai agents in my codebases
+- Working on Fairheart & Cupid (https://shopfairheart.com/)
+- Exploring AI ML & ai engineering
 
 ---
 
