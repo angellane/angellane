@@ -2,9 +2,9 @@
 
 # hi, i'm fabian 👋
 
-**Second year Computer Systems student @ University of Limerick <br>
+**3rd year Computer Systems student @ University of Limerick <br>
 Intern @ Limerick City and County Council </br>
-Currently Building Fairheart**
+Currently Building Cupid (tools for automating my e-commerce business)**
 
 
 
@@ -59,6 +59,9 @@ Currently Building Fairheart**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
 
 **deployment**
 
