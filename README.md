@@ -40,6 +40,7 @@ Currently Building Cupid (tools for automating my e-commerce business)**
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 ![Lisp](https://img.shields.io/badge/Lisp-8A2BE2?style=flat-square&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lualor=white)
 
 **frontend**
 
